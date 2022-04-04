@@ -1,9 +1,10 @@
+#  ` Deploy `
+[! [Deploy](https://www.herokucdn.com/deploy/button.svg)] (https://heroku.com/deploy?template=https://github.com/Calzganz/bot-calz/) 
 # SC-V5
 https://youtube.com/channel/UCJi3qEvIX7AZyRowqSTnoig
-
 https://apiRzL.herokuapp.com
-
-jika mau add fitur lain silakan mampir ke
+saya
+jika mau menambahkan fitur lain silakan mampir ke
 rest api gw yg ada di atas
 
 Jangan lupa juga subscribe youtube saya
